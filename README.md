@@ -1,4 +1,4 @@
-# Decode-AI
+# Decoding-AI-Interviews
 Your ultimate guide to landing top AI roles
 
 Decode AI Youtube Link : https://www.youtube.com/@decodeAiBySanjeev
