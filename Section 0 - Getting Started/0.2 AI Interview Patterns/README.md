@@ -1,4 +1,8 @@
-Video Link : https://youtu.be/i0F2EIYv1wk?si=br76KFrLLVycA3gK
+**0.2 Decoding AI Interview Experience | Common Interview Patterns at MAANG | Hindi**
+
+**Video Link** : https://youtu.be/i0F2EIYv1wk?si=br76KFrLLVycA3gK
+
+**Video Description** :
 
 In this video, we decode the real-world AI interview experience — specifically how interviews are structured at top companies like Amazon, Google and other top startups.
 
