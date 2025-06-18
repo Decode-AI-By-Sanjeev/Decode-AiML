@@ -1,7 +1,37 @@
-# Video Reference Links from Decode AI Channel
+**1.2 Mastering Jupyter Notebook: Complete Guide | Kernels Explained | Virtual Env Setup | Hindi**
 
-## Section 0 - Getting Started
+**Video Link**: https://youtu.be/RoGBGylCr34?si=DUnOWmFTNjA_uACI
 
-- 0.1 Channel Introduction Video Link : [LINK](https://www.youtube.com/watch?v=pZeSkhfNJLo)
-- 0.2 AI Interview Patterns Video Link : [LINK](https://www.youtube.com/watch?v=i0F2EIYv1wk)
-- 0.3 Course Introduction Video Link : [LINK](https://www.youtube.com/watch?v=ZvflPE1nFAU)
+**Video Description**:
+
+In this video, we’ll walk you through everything you need to know about Jupyter Notebooks — a powerful tool for Python and data science, explained in simple Hindi.
+
+📘 Topics Covered:
+
+0️⃣ Setting up a virtual environment for the course
+
+1️⃣ What are Jupyter Notebooks and how do they work?
+
+2️⃣ Understanding how Jupyter interacts with Python
+
+3️⃣ Deep dive into Kernels
+
+4️⃣ Does IPyKernel come with Python?
+
+5️⃣ How to use Jupyter Notebook effectively
+
+6️⃣ Must-know features to improve your productivity
+
+Perfect for beginners and those starting their data science or Python journey.
+
+👨‍💻 About Decode AI
+
+We're not your average tutorial channel. Decode AI is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
+
+🎓 Our mission is simple:
+
+Help you crack roles like Applied Scientist, Data Scientist, and ML Engineer at MAANG and other top tech companies — with real-world guidance that bridges the gap between YouTube tutorials and actual interview expectations.
+
+💡 Don’t forget to subscribe for more practical tutorials and real-world tips!
+
+#JupyterNotebook #PythonHindi #KernelsExplained #DataScienceTools #VirtualEnvironment #IpyKernel #PythonTutorials
