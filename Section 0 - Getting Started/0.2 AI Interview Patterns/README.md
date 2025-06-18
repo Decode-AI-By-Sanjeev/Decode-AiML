@@ -1,7 +1,24 @@
-# Video Reference Links from Decode AI Channel
+Video Link : https://youtu.be/i0F2EIYv1wk?si=br76KFrLLVycA3gK
+In this video, we decode the real-world AI interview experience — specifically how interviews are structured at top companies like Amazon, Google and other top startups.
 
-## Section 0 - Getting Started
+🧠 What you’ll learn:
 
-- 0.1 Channel Introduction Video Link : [LINK](https://www.youtube.com/watch?v=pZeSkhfNJLo)
-- 0.2 AI Interview Patterns Video Link : [LINK](https://www.youtube.com/watch?v=i0F2EIYv1wk)
-- 0.3 Course Introduction Video Link : [LINK](https://www.youtube.com/watch?v=ZvflPE1nFAU)
+Common interview patterns for AI/ML/Data Science roles
+
+Types of rounds you can expect (DSA, ML, ML design, case studies)
+
+Real examples from our own interview journeys
+
+How to prepare for each stage effectively
+
+Mistakes to avoid and tips from experience
+
+Whether you're a fresher or experienced professional, this video gives you a clear roadmap to navigate the tough interviews in the AI industry.
+
+Language: Hindi
+
+For roles: Applied Scientist, ML Engineer, Data Scientist, Research Scientist, Software Engineer (AI/ML)
+
+Subscribe to Decode AI for more such insights and preparation strategies!
+
+#DecodeAI #AIInterviewExperience #MAANGInterviews #MachineLearningJobs #DataScienceCareer #Hindi
