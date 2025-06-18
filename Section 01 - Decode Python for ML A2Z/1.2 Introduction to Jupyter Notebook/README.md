@@ -8,19 +8,13 @@ In this video, we’ll walk you through everything you need to know about Jupyte
 
 📘 Topics Covered:
 
-0️⃣ Setting up a virtual environment for the course
-
-1️⃣ What are Jupyter Notebooks and how do they work?
-
-2️⃣ Understanding how Jupyter interacts with Python
-
-3️⃣ Deep dive into Kernels
-
-4️⃣ Does IPyKernel come with Python?
-
-5️⃣ How to use Jupyter Notebook effectively
-
-6️⃣ Must-know features to improve your productivity
+0. Setting up a virtual environment for the course
+1. What are Jupyter Notebooks and how do they work?
+2. Understanding how Jupyter interacts with Python
+3. Deep dive into Kernels
+4. Does IPyKernel come with Python?
+5. How to use Jupyter Notebook effectively
+6. Must-know features to improve your productivity
 
 Perfect for beginners and those starting their data science or Python journey.
 
