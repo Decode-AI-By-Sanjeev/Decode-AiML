@@ -1,6 +1,8 @@
-Welcome to Decode AI! 🎉
+**0.1 Decode AI Channel Intro | Start Your AI Journey Here | Hindi**
 
-Video Link : https://youtu.be/pZeSkhfNJLo?si=M5tqEQwKEsyVd_HH
+**Video Link** : https://youtu.be/pZeSkhfNJLo?si=M5tqEQwKEsyVd_HH
+
+**Video Description**:
 
 This is the very first video on our channel — and we’re super excited to have you here!
 
