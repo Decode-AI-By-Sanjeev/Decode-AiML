@@ -1,7 +1,17 @@
-# Video Reference Links from Decode AI Channel
+Welcome to Decode AI! 🎉
 
-## Section 0 - Getting Started
+Video Link : https://youtu.be/pZeSkhfNJLo?si=M5tqEQwKEsyVd_HH
 
-- 0.1 Channel Introduction Video Link : [LINK](https://www.youtube.com/watch?v=pZeSkhfNJLo)
-- 0.2 AI Interview Patterns Video Link : [LINK](https://www.youtube.com/watch?v=i0F2EIYv1wk)
-- 0.3 Course Introduction Video Link : [LINK](https://www.youtube.com/watch?v=ZvflPE1nFAU)
+This is the very first video on our channel — and we’re super excited to have you here!
+
+📢 In this video:
+
+➡️ Share what Decode AI is all about
+
+➡️ Tell you what kind of videos and content you can expect here
+
+👨‍💻 What is Decode AI?
+
+Decode AI is your go-to channel for cracking top AI roles — whether you're aiming to become an Applied Scientist, Data Scientist, or Machine Learning Engineer at companies like MAANG or top startups.
+
+Let’s decode the world of AI — together! 💡
