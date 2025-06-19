@@ -1,6 +1,6 @@
 **1.6.1 Strings in Python | Properties and Methods in String | Explained with examples | Hindi**
 
-**Video Link** : https://youtu.be/LnPB9jSUbu4?si=VhThNRLLVVrBHCBF
+**Video Link** : https://youtu.be/ySAdq22BewE?si=jtxlxsknK3rmSqCF
 
 **Video Description** :
 
