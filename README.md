@@ -3,6 +3,28 @@ Your ultimate guide to landing top AI roles
 
 Decode AI Youtube Link : https://www.youtube.com/@decodeAiBySanjeev
 
+## 📚 Repository Structure
+
+This repository is organized into modular sections to help you **learn progressively**:
+
+| 📦 Section | 📘 Title                                             | 🧭 Status         |
+|------------|------------------------------------------------------|-------------------|
+| 00         | Getting Started                                       | ✅ Complete        |
+| 01         | Decode Python for ML A2Z                              | 🔄 In Progress      |
+| 02         | Decode Calculus and Optimization A2Z                 | 🔄 In Progress     |
+| 03         | Decode Linear Algebra A2Z                            | 🔄 In Progress     |
+| 04         | Decode Statistics and Probability A2Z               | 🔄 In Progress     |
+| 05         | Decode Machine Learning A2Z                          | 🔄 In Progress     |
+| 06         | Decode Deep Learning A2Z                             | 🔄 In Progress     |
+| 07         | Decode Generative AI A2Z                             | 🔄 In Progress     |
+| 08         | Decode AI Development Tools A2Z                      | 🔄 In Progress     |
+| 09         | Decode ML Model Deployment A2Z                       | 🔄 In Progress     |
+| 10         | Decode Recommendation Engine A2Z                     | 🔄 In Progress     |
+| 11         | Decode ML Design Interview A2Z                       | 🔄 In Progress     |
+| 12         | Decode DSA in Python A2Z                             | 🔄 In Progress     |
+
+---
+
 ## Description
 
 Welcome to Decode AI – where we simplify the path to landing roles like Applied Scientist, Data Scientist, and Machine Learning Engineer at MAANG and other top tech companies.
