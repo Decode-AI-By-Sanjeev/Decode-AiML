@@ -27,7 +27,18 @@ This repository is organized into modular sections to help you **learn progressi
 ---
 
 **Decode AI Youtube Channel** : https://www.youtube.com/@decodeAiBySanjeev
-
+- We are committed to uploading **one topic every day** exclusively on our YouTube channel.
+- All associated **course content** (Jupyter Notebooks, handwritten notes, etc.) will be available here on GitHub.
+- **Lecture Language**: English + Hindi (Code-mixed for better understanding)
+- Intructors:
+    - Mr. Sanjeev :
+        -  Worked at : NVIDIA, SAMSUNG RESEARCH and few startups
+        -  M.Tech CS at IIT, B.Tech CS at IIIT
+        -  GATE CS - AIR 465
+    - Mrs. Shambhavi :
+        - Worked at : Google, Oracle
+        - M.Tech CS at IIT
+        - GATE CS AIR 291
 ---
 👨‍💻 About Decode AI
 
