@@ -1,7 +1,8 @@
-# Decoding-AI-Interviews
-Your ultimate guide to landing top AI roles
+# Decoding AI Interviews
 
-Decode AI Youtube Link : https://www.youtube.com/@decodeAiBySanjeev
+**Decoding AI Interviews - Your ultimate guide Program to landing top AI roles.**  
+
+We're on a mission to build the world's most structured and industry-relevant AI course—crafted to help you crack interviews at MAANG and top startups. And the best part? It's 100% FREE!
 
 ## 📚 Repository Structure
 
@@ -25,17 +26,15 @@ This repository is organized into modular sections to help you **learn progressi
 
 ---
 
-## Description
+**Decode AI Youtube Channel** : https://www.youtube.com/@decodeAiBySanjeev
 
-Welcome to Decode AI – where we simplify the path to landing roles like Applied Scientist, Data Scientist, and Machine Learning Engineer at MAANG and other top tech companies.
+---
+👨‍💻 About Decode AI
 
-We're not just another tutorial channel. We are a team of IIT alumni and having experience from Google, NVIDIA, Samsung Research, Oracle, Flipkart, and more. Having walked the path ourselves, we noticed a massive gap between what's taught on platforms like YouTube and EdTech Courses — and what top companies actually test for.
+We're not your average tutorial channel. Decode AI is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
 
-🎯 Our Key Focus:
-- Deep dives into ML, Deep Learning, System Design, and Research Papers
-- End-to-end guidance to break into top AI roles
-- Coding, problem-solving, and project walkthroughs
-- Real interview prep strategies and case studies
-- Insider tips from those who’ve cracked the toughest interviews
+🎓 Our mission is simple:
+
+Help you crack roles like Applied Scientist, Data Scientist, and ML Engineer at MAANG and other top tech companies — with real-world guidance that bridges the gap between YouTube tutorials and actual interview expectations.
 
 Subscribe and start decoding your future in AI.
