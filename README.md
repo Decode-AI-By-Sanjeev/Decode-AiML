@@ -1,17 +1,17 @@
 # Decoding AI Interviews
 
-**Decoding AI Interviews - Your ultimate guide Program to landing top AI roles.**  
+**Decoding AI Interviews - Your ultimate guide to landing top AI roles.**  
 
-We're on a mission to build the world's most structured and industry-relevant AI course—crafted to help you crack interviews at MAANG and top startups. And the best part? It's 100% FREE!
+We're on a mission to build the world's most structured and industry-relevant AI course — crafted to help you crack interviews at MAANG and top startups. And the best part? It's 100% FREE!
 
-## 📚 Repository Structure
+## 📚 Course Structure
 
 This repository is organized into modular sections to help you **learn progressively**:
 
 | 📦 Section | 📘 Title                                             | 🧭 Status         |
 |------------|------------------------------------------------------|-------------------|
-| 00         | Getting Started                                       | ✅ Complete        |
-| 01         | Decode Python for ML A2Z                              | 🔄 In Progress      |
+| 00         | Getting Started                                       | ✅ Complete       |
+| 01         | Decode Python for ML A2Z                              | 🔄 In Progress    |
 | 02         | Decode Calculus and Optimization A2Z                 | 🔄 In Progress     |
 | 03         | Decode Linear Algebra A2Z                            | 🔄 In Progress     |
 | 04         | Decode Statistics and Probability A2Z               | 🔄 In Progress     |
