@@ -5,7 +5,7 @@
 
 **Video Link**: [Watch on YouTube](https://youtu.be/i0F2EIYv1wk?si=br76KFrLLVycA3gK)
 
-**Notes Link** : [Channel Introduction](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%200%20-%20Getting%20Started/0.2%20AI%20Interview%20Patterns)
+**Notes Link** : [Channel Introduction](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%200%20-%20Getting%20Started/0.2%20AI%20Interview%20Patterns)
 
 
 **Video Description** :
@@ -31,15 +31,15 @@ Subscribe to Decode AI for more such insights and preparation strategies!
 
 ---
 
-**Decode AI Youtube Channel** : https://www.youtube.com/@decodeAiBySanjeev
+**Decode AiML Youtube Channel** : [@decodeAiML](https://www.youtube.com/@decodeAiML)
 - We are committed to uploading **one topic every day** exclusively on our YouTube channel.
 - All associated **course content** (Jupyter Notebooks, handwritten notes, etc.) will be available here on GitHub.
 - **Lecture Language**: Hindi + English (Code-mixed for better understanding)
 
 ---
-👨‍💻 About Decode AI
+👨‍💻 About Decode AiML
 
-We're not your average tutorial channel. Decode AI is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
+We're not your average tutorial channel. Decode AiML is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
 
 🎓 Our mission is simple:
 
