@@ -6,7 +6,7 @@
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=4bDHdEPT4VI)
 
-**Notes Link** : [Introduction to Functions in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Introduction to Functions in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
 
 
 **Video Description**:
@@ -18,7 +18,7 @@
 - Real-World Scenarios Where Functions Are Useful
 - Hands-On Examples of Industry-Grade Function Writing in Python
 
-#PythonFunctions #LearnPython #FunctionSyntax #DecodeAI #PythonInHindi #PythonTutorial #PythonForBeginners #PythonProgramming #IndustryGradeCode #PythonDocstring
+#PythonFunctions #LearnPython #FunctionSyntax #DecodeAiML #PythonInHindi #PythonTutorial #PythonForBeginners #PythonProgramming #IndustryGradeCode #PythonDocstring
 
 ---
 
@@ -26,7 +26,7 @@
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=wKteu65aM7A)
 
-**Notes Link** : [Function Syntax in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Function Syntax in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
 
 
 
@@ -37,7 +37,7 @@
 - Industry grade function syntax explained with Real-World examples
 - Function vs Method explained
 
-#PythonFunctions #FunctionVsMethod #PythonBestPractices #LearnPython #PythonInHindi #DecodeAI #PythonProgramming #CleanCode #PythonTutorial #PythonForBeginners
+#PythonFunctions #FunctionVsMethod #PythonBestPractices #LearnPython #PythonInHindi #DecodeAiML #PythonProgramming #CleanCode #PythonTutorial #PythonForBeginners
 
 ---
 
@@ -45,7 +45,7 @@
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=U0OuzITZzqU)
 
-**Notes Link** : [Types of Functions in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Types of Functions in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
 
 **Video Description**:
 
@@ -65,7 +65,7 @@
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=_byFExAnVUM)
 
-**Notes Link** : [Map, Reduce, Filter and Lambda](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Map, Reduce, Filter and Lambda](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
 
 
 **Video Description**:
@@ -78,7 +78,7 @@
 4. map(), reduce() and filter() function usage with and without lambda function
 5. Pros and Cons of using map(), reduce() and filter() functions.
 
-#PythonMap #PythonReduce #PythonFilter #LambdaFunction #FunctionalProgramming #LearnPython #DecodeAI #PythonInHindi #PythonForBeginners #PythonTutorial #MapReduceFilter
+#PythonMap #PythonReduce #PythonFilter #LambdaFunction #FunctionalProgramming #LearnPython #DecodeAiML #PythonInHindi #PythonForBeginners #PythonTutorial #MapReduceFilter
 
 ---
 
@@ -86,7 +86,7 @@
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
 
-**Notes Link** : [Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
 
 
 **Video Description**:
@@ -105,7 +105,7 @@
 - Generator Implementation in details
 - yield Keyword in Python Generators
 
-#PythonIterators #PythonGenerators #LazyEvaluation #IterableVsIterator #YieldKeyword #DecodeAI #LearnPython #PythonInHindi #PythonProgramming #PythonTutorial #CustomIterator
+#PythonIterators #PythonGenerators #LazyEvaluation #IterableVsIterator #YieldKeyword #DecodeAiML #LearnPython #PythonInHindi #PythonProgramming #PythonTutorial #CustomIterator
 
 ---
 
@@ -113,7 +113,7 @@
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
 
-**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
 
 
 **Video Description**:
@@ -131,11 +131,11 @@
 - Generator Implementation in details
 - Use of yield keyword in generators in Python
 
-#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAiML #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
 
 ---
 
-**Decode AI Youtube Channel** : [@decodeAiBySanjeev](https://www.youtube.com/@decodeAiBySanjeev)
+**Decode AiML Youtube Channel** : [@decodeAiML](https://www.youtube.com/@decodeAiML)
 - We are committed to uploading **one topic every day** exclusively on our YouTube channel.
 - All associated **course content** (Jupyter Notebooks, handwritten notes, etc.) will be available here on GitHub.
 - **Lecture Language**: Hindi + English (Code-mixed for better understanding)
@@ -143,7 +143,7 @@
 ---
 👨‍💻 About Decode AI:
 
-We're not your average tutorial channel. Decode AI is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
+We're not your average tutorial channel. Decode AiML is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
 
 🎓 Our mission is simple:
 
