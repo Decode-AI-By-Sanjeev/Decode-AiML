@@ -1,7 +1,7 @@
 ## 0.2 AI Interview Patterns
 
 ---
-**Lecture 0.2) Decoding AI Interview Experience | Common Interview Patterns at MAANG | Hindi**
+**Lecture 0.2) Decoding AI Interview Experience - Common Interview Patterns at MAANG - Hindi**
 
 **Video Link**: [Watch on YouTube](https://youtu.be/i0F2EIYv1wk?si=br76KFrLLVycA3gK)
 
