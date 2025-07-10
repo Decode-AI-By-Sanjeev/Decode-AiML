@@ -1,4 +1,8 @@
-## **Decoding AI Interviews - Your ultimate guide to landing top AI roles.**  
+<h2 align="center">
+  Decoding AI Interviews - Your ultimate guide to landing top AI roles.
+</h2>
+
+---
 
 We're on a mission to build the world's most structured and industry-relevant AI course — crafted to help you crack interviews at MAANG and top startups. And the best part? It's 100% FREE!
 
