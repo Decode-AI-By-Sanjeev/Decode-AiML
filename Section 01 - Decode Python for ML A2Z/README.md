@@ -4,34 +4,34 @@ Welcome to the series - **Decode Python for ML A2Z**. We're laying the foundatio
 
 ## 📚 Table of Content
 
-Github Code Repository Link: [Decode-AI Repository](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z)
+Github Code Repository Link: [Decode-AiML Repository](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z)
 
 This repository is organized into modular sections to help you **learn progressively**:
 
 | 📦 Section | 📘 Title                                             | 🧭 Status         |
 |------------|------------------------------------------------------|-------------------|
-| 01         | [Installation and Hello World](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.01%20Installation%20and%20Hello%20World)                                    | ✅ Complete       |
-| 02         |  [Introduction to Jupyter Notebook](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.02%20Introduction%20to%20Jupyter%20Notebook)                             |  ✅ Complete      |
-| 03         | [Introduction to Python, Data Types and Expressions](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.03%20Introduction%20to%20Python%2C%20Data%20Types%20and%20Expressions)              |  ✅ Complete       |
-| 04         | [The Python Execution Model](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.04%20%5BBonus%20Section%5D%20The%20Python%20Execution%20Model)                                    | ✅ Complete       |
-| 05         |  [Control Flow in Python](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.05%20Control%20Flow%20in%20Python)                             |  ✅ Complete      |
-| 06         | [Strings in Python](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.06%20Strings%20in%20Python)              |  ✅ Complete       |
-| 07         | [Lists in Python](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.07%20Lists%20in%20Python)                                    | ✅ Complete       |
-| 08         |  [ Tuples, Sets and Dictionaries in Python](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.08%20Tuples%2C%20Sets%20and%20Dictionaries%20in%20Python)                             |  ✅ Complete      |
-| 09         | [Functions in Python](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)              |  ✅ Complete       |
-| 10         | [OOPs in Python](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)                                    | ✅ Complete       |
+| 01         | [Installation and Hello World](https:/decodeaiml.com/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.01%20Installation%20and%20Hello%20World)                                    | ✅ Complete       |
+| 02         |  [Introduction to Jupyter Notebook](https:/decodeaiml.com/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.02%20Introduction%20to%20Jupyter%20Notebook)                             |  ✅ Complete      |
+| 03         | [Introduction to Python, Data Types and Expressions](https:/decodeaiml.com/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.03%20Introduction%20to%20Python%2C%20Data%20Types%20and%20Expressions)              |  ✅ Complete       |
+| 04         | [The Python Execution Model](https:/decodeaiml.com/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.04%20%5BBonus%20Section%5D%20The%20Python%20Execution%20Model)                                    | ✅ Complete       |
+| 05         |  [Control Flow in Python](https:/decodeaiml.com/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.05%20Control%20Flow%20in%20Python)                             |  ✅ Complete      |
+| 06         | [Strings in Python](https:/decodeaiml.com/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.06%20Strings%20in%20Python)              |  ✅ Complete       |
+| 07         | [Lists in Python](https:/decodeaiml.com/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.07%20Lists%20in%20Python)                                    | ✅ Complete       |
+| 08         |  [ Tuples, Sets and Dictionaries in Python](https:/decodeaiml.com/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.08%20Tuples%2C%20Sets%20and%20Dictionaries%20in%20Python)                             |  ✅ Complete      |
+| 09         | [Functions in Python](https:/decodeaiml.com/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)              |  ✅ Complete       |
+| 10         | [OOPs in Python](https:/decodeaiml.com/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)                                    | ✅ Complete       |
 
 ---
 
-**Decode AI YouTube Channel** : [@decodeAiBySanjeev](https://www.youtube.com/@decodeAiBySanjeev)
+**Decode AiML YouTube Channel** : [@decodeAiML](https://www.youtube.com/@decodeAiML)
 - We are committed to uploading **one topic every day** exclusively on our YouTube channel.
 - All associated **course content** (Jupyter Notebooks, handwritten notes, etc.) will be available here on GitHub.
 - **Lecture Language**: Hindi + English (Code-mixed for better understanding)
 
 ---
-👨‍💻 About Decode AI
+👨‍💻 About Decode AiML
 
-We're not your average tutorial channel. Decode AI is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
+We're not your average tutorial channel. Decode AiML is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
 
 🎓 Our mission is simple:
 
