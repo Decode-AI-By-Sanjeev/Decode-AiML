@@ -1,4 +1,4 @@
-# Decoding AiML
+# Decode AiML
 
 **Decoding AI Interviews - Your ultimate guide to landing top AI roles.**  
 
