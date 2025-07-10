@@ -6,7 +6,7 @@
 
 **Video Link**: [Watch on YouTube](https://youtu.be/EmEfOyz-Ggc?si=LZvGmuZ6U1Ag67m0)
 
-**Notes Link** : [Introduction to Lists](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.07%20Lists%20in%20Python)
+**Notes Link** : [Introduction to Lists](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.07%20Lists%20in%20Python)
 
 
 **Video Description**:
@@ -18,7 +18,7 @@
 - How Lists are Stored Internally in Memory
 - Indexing and Slicing Operations on Lists
 
-#PythonLists #ListMethodsPython #ListComprehension #ListIndexing #NestedLists #PythonLists #ListIndexing #ListSlicing #PythonDataStructures #PythonProgramming #MutableLists
+#PythonLists #ListMethodsPython #ListComprehension #ListIndexing #NestedLists #PythonLists #ListIndexing #ListSlicing #PythonDataStructures #PythonProgramming #MutableLists #DecodeAiML
 
 ---
 
@@ -26,7 +26,7 @@
 
 **Video Link**: [Watch on YouTube](https://youtu.be/H8L4ZGSsghQ?si=3toQ24M26PCxGruB)
 
-**Notes Link** : [Properties and Methods in Lists](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.06%20Strings%20in%20Python)
+**Notes Link** : [Properties and Methods in Lists](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.06%20Strings%20in%20Python)
 
 
 **Video Description**:
@@ -40,19 +40,19 @@
 - List Comprehension Explained with Code
 - Miscellaneous List Methods Demonstrated
 
-#PythonLists #ListMethodsPython #ListComprehension #ListIndexing #NestedLists #PythonLists #ListIndexing #ListSlicing #PythonDataStructures #PythonProgramming #MutableLists
+#PythonLists #ListMethodsPython #ListComprehension #ListIndexing #NestedLists #PythonLists #ListIndexing #ListSlicing #PythonDataStructures #PythonProgramming #MutableLists #DecodeAiML
 
 ---
 
-**Decode AI Youtube Channel** : [@decodeAiBySanjeev](https://www.youtube.com/@decodeAiBySanjeev)
+**Decode AiML Youtube Channel** : [@decodeAiML](https://www.youtube.com/@decodeAiML)
 - We are committed to uploading **one topic every day** exclusively on our YouTube channel.
 - All associated **course content** (Jupyter Notebooks, handwritten notes, etc.) will be available here on GitHub.
 - **Lecture Language**: Hindi + English (Code-mixed for better understanding)
 
 ---
-👨‍💻 About Decode AI:
+👨‍💻 About Decode AiML:
 
-We're not your average tutorial channel. Decode AI is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
+We're not your average tutorial channel. Decode AiML is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
 
 🎓 Our mission is simple:
 
