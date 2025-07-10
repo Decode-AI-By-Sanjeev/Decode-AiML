@@ -1,8 +1,8 @@
-## 1.9 Functions in Python
+## 1.10 Object Oriented Programming (OOPs) in Python
 
 ---
 
-**Lecture 1.9.1) Introduction to Functions in Python - Syntax Explained with Real-World Examples - Hindi**
+**Lecture 1.10.1) Introduction to Functions in Python - Syntax Explained with Real-World Examples - Hindi**
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=4bDHdEPT4VI)
 
@@ -22,7 +22,7 @@
 
 ---
 
-**Lecture 1.9.2)  Function Syntax in Python - Function vs Method - Best Practices for Writing Functions - Hindi**
+**Lecture 1.10.2)  Function Syntax in Python - Function vs Method - Best Practices for Writing Functions - Hindi**
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=wKteu65aM7A)
 
@@ -41,7 +41,7 @@
 
 ---
 
-**Lecture 1.9.3) Types of Functions in Python - Lambda, Recursion, Map Explained with Examples - Hindi**
+**Lecture 1.10.3) Types of Functions in Python - Lambda, Recursion, Map Explained with Examples - Hindi**
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=U0OuzITZzqU)
 
@@ -61,7 +61,7 @@
 
 ---
 
-**Lecture 1.9.4) Map, Reduce, Filter, and Lambda Functions in Python - Explained with Example - Hindi**
+**Lecture 1.10.4) Map, Reduce, Filter, and Lambda Functions in Python - Explained with Example - Hindi**
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=_byFExAnVUM)
 
@@ -82,7 +82,7 @@
 
 ---
 
-**Lecture 1.9.5)  Iterators and Generators in Python - Iterable vs Iterator vs Generator with Examples - Hindi**
+**Lecture 1.10.5)  Iterators and Generators in Python - Iterable vs Iterator vs Generator with Examples - Hindi**
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
 
@@ -109,7 +109,7 @@
 
 ---
 
-**Lecture 1.9.6) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+**Lecture 1.10.6) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
 
@@ -120,18 +120,257 @@
 
 📘 Topics Covered:
 - Hands-On Coding of Iterators and Generators in Python
-- Types of lazy evaluation - Iterator vs Generator.
-- Pros and cons of Iterators and Generators
-- Detailed Implementation of Iterators
-- __iter__() , __next__(), StopIterator Exception in Iterator
-- Iterable vs Iterator in Python
-- Examples of Iterable objects : list, string etc.
-- iter() and next() function in python
-- Custom Iterator Class Implementation
-- Generator Implementation in details
-- Use of yield keyword in generators in Python
+
 
 #pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+
+---
+
+**Lecture 1.10.7) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+
+**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+- Hands-On Coding of Iterators and Generators in Python
+
+
+#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+
+---
+
+**Lecture 1.10.8) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+
+**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+- Hands-On Coding of Iterators and Generators in Python
+
+
+#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+
+---
+
+**Lecture 1.10.9) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+
+**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+- Hands-On Coding of Iterators and Generators in Python
+
+
+#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+
+---
+
+**Lecture 1.10.10) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+
+**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+- Hands-On Coding of Iterators and Generators in Python
+
+
+#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+
+---
+
+**Lecture 1.10.11) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+
+**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+- Hands-On Coding of Iterators and Generators in Python
+
+
+#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+
+---
+
+**Lecture 1.10.12) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+
+**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+- Hands-On Coding of Iterators and Generators in Python
+
+
+#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+
+---
+
+**Lecture 1.10.13) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+
+**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+- Hands-On Coding of Iterators and Generators in Python
+
+
+#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+---
+
+**Lecture 1.10.14) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+
+**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+- Hands-On Coding of Iterators and Generators in Python
+
+
+#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+
+---
+
+**Lecture 1.10.15) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+
+**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+- Hands-On Coding of Iterators and Generators in Python
+
+
+#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+
+---
+
+**Lecture 1.10.16) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+
+**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+- Hands-On Coding of Iterators and Generators in Python
+
+
+#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+
+---
+
+**Lecture 1.10.17) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+
+**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+- Hands-On Coding of Iterators and Generators in Python
+
+
+#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+
+---
+
+**Lecture 1.10.18) Polymorphism in Python - Hindi**
+
+**Video Link**: [Watch on YouTube]()
+
+**Notes Link** : [Polymorphism in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
+
+**Video Description**:
+
+📘 Topics Covered:
+- TOC
+
+#hashtags
+
+---
+
+**Lecture 1.10.19) Polymorphism in Python - Hindi**
+
+**Video Link**: [Watch on YouTube]()
+
+**Notes Link** : [Polymorphism in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
+
+**Video Description**:
+
+📘 Topics Covered:
+- TOC
+
+#hashtags
+
+---
+
+**Lecture 1.10.20) Abstract Class and Methods in Python - Hindi**
+
+**Video Link**: [Watch on YouTube]()
+
+**Notes Link** : [Abstract Class & Methods in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+- TOC
+
+#hashtags
+
+---
+
+**Lecture 1.10.21) Abstraction in Python - Hindi**
+
+**Video Link**: [Watch on YouTube]()
+
+**Notes Link** : [Abstraction in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+- TOC
+
+#hashtags
 
 ---
 
