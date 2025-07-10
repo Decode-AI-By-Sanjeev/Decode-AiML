@@ -6,7 +6,7 @@ We're on a mission to build the world's most structured and industry-relevant AI
 
 ## 📚 Course Structure
 
-Github Code Repository Link: [Decode-AI Repository](https://github.com/Decode-AI-By-Sanjeev/Decode-AI)
+Github Code Repository Link: [Decode-AiML Repository](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML)
 
 This repository is organized into modular sections to help you **learn progressively**:
 
