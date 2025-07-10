@@ -12,9 +12,9 @@ This repository is organized into modular sections to help you **learn progressi
 
 | 📦 Section | 📘 Title                                             | 🧭 Status         |
 |------------|------------------------------------------------------|-------------------|
-| 00         | [What is Decode AI ? What problems are we solving ?](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%200%20-%20Getting%20Started/0.1%20Channel%20Introduction)                                    | ✅ Complete       |
-| 01         |  [Decoding AI Interview Patterns with examples.](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%200%20-%20Getting%20Started/0.2%20AI%20Interview%20Patterns/)                             |  ✅ Complete      |
-| 02         | [Course Structure. The Ultimate AI roadmap to crack top AI roles at MAANG. ](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%200%20-%20Getting%20Started/0.3%20Course%20Introduction)              |  ✅ Complete       |
+| 01         | [What is Decode AI ? What problems are we solving ?](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%200%20-%20Getting%20Started/0.1%20Channel%20Introduction)                                    | ✅ Complete       |
+| 02         |  [Decoding AI Interview Patterns with examples.](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%200%20-%20Getting%20Started/0.2%20AI%20Interview%20Patterns/)                             |  ✅ Complete      |
+| 03         | [Course Structure. The Ultimate AI roadmap to crack top AI roles at MAANG. ](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%200%20-%20Getting%20Started/0.3%20Course%20Introduction)              |  ✅ Complete       |
 
 
 ---
