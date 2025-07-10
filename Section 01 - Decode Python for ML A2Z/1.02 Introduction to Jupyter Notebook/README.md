@@ -1,24 +1,40 @@
-**1.2 Mastering Jupyter Notebook: Complete Guide | Kernels Explained | Virtual Env Setup | Hindi**
 
-**Video Link**: https://youtu.be/RoGBGylCr34?si=DUnOWmFTNjA_uACI
+## 1.2 Introduction to Jupyter Notebook
+
+---
+**Lecture 1.2) Mastering Jupyter Notebook: Complete Guide - Kernels Explained - Virtual Env Setup - Hindi**
+
+**Video Link**: [Watch on YouTube](https://youtu.be/RoGBGylCr34?si=DUnOWmFTNjA_uACI)
+
+**Notes Link** : [Introduction to Jupyter Notebook](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.02%20Introduction%20to%20Jupyter%20Notebook)
+
 
 **Video Description**:
 
 In this video, we’ll walk you through everything you need to know about Jupyter Notebooks — a powerful tool for Python and data science, explained in simple Hindi.
 
 📘 Topics Covered:
-
-0. Setting up a virtual environment for the course
-1. What are Jupyter Notebooks and how do they work?
-2. Understanding how Jupyter interacts with Python
-3. Deep dive into Kernels
-4. Does IPyKernel come with Python?
-5. How to use Jupyter Notebook effectively
-6. Must-know features to improve your productivity
+- Setting up a virtual environment for the course
+- What are Jupyter Notebooks and how do they work?
+- Understanding how Jupyter interacts with Python
+- Deep dive into Kernels
+- Does IPyKernel come with Python?
+- How to use Jupyter Notebook effectively
+- Must-know features to improve your productivity
 
 Perfect for beginners and those starting their data science or Python journey.
 
-👨‍💻 About Decode AI
+#JupyterNotebook #PythonHindi #KernelsExplained #DataScienceTools #VirtualEnvironment #IpyKernel #PythonTutorials
+
+---
+
+**Decode AI Youtube Channel** : [@decodeAiBySanjeev](https://www.youtube.com/@decodeAiBySanjeev)
+- We are committed to uploading **one topic every day** exclusively on our YouTube channel.
+- All associated **course content** (Jupyter Notebooks, handwritten notes, etc.) will be available here on GitHub.
+- **Lecture Language**: Hindi + English (Code-mixed for better understanding)
+
+---
+👨‍💻 About Decode AI:
 
 We're not your average tutorial channel. Decode AI is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
 
@@ -26,6 +42,5 @@ We're not your average tutorial channel. Decode AI is built by IIT alumni with h
 
 Help you crack roles like Applied Scientist, Data Scientist, and ML Engineer at MAANG and other top tech companies — with real-world guidance that bridges the gap between YouTube tutorials and actual interview expectations.
 
-💡 Don’t forget to subscribe for more practical tutorials and real-world tips!
 
-#JupyterNotebook #PythonHindi #KernelsExplained #DataScienceTools #VirtualEnvironment #IpyKernel #PythonTutorials
+
