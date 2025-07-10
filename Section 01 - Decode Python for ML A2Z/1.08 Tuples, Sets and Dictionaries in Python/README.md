@@ -64,7 +64,7 @@
 
 ---
 
-**Decode AiML Youtube Channel** : [@decodeAiBySanjeev](https://www.youtube.com/@decodeAiBySanjeev)
+**Decode AiML Youtube Channel** : [@decodeAiML](https://www.youtube.com/@decodeAiML)
 - We are committed to uploading **one topic every day** exclusively on our YouTube channel.
 - All associated **course content** (Jupyter Notebooks, handwritten notes, etc.) will be available here on GitHub.
 - **Lecture Language**: Hindi + English (Code-mixed for better understanding)
