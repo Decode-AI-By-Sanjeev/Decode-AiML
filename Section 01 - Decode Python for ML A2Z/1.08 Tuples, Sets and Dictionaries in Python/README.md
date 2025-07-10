@@ -6,7 +6,7 @@
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=d6Wx7yhrzDg)
 
-**Notes Link** : [Tuples in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.08%20Tuples%2C%20Sets%20and%20Dictionaries%20in%20Python)
+**Notes Link** : [Tuples in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.08%20Tuples%2C%20Sets%20and%20Dictionaries%20in%20Python)
 
 
 **Video Description**:
@@ -17,7 +17,7 @@
 - Indexing and slicing in tuples
 - Basic Tuple Methods
 
-#PythonTuples #TupleMethods #PythonDataTypes #LearnPython #PythonInHindi #DecodeAI #PythonProgramming #PythonBasics #TupleIndexing
+#PythonTuples #TupleMethods #PythonDataTypes #LearnPython #PythonInHindi #DecodeAiML #PythonProgramming #PythonBasics #TupleIndexing
 
 ---
 
@@ -25,7 +25,7 @@
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=dB5ltn9kWGw)
 
-**Notes Link** : [Sets in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.08%20Tuples%2C%20Sets%20and%20Dictionaries%20in%20Python)
+**Notes Link** : [Sets in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.08%20Tuples%2C%20Sets%20and%20Dictionaries%20in%20Python)
 
 
 **Video Description**:
@@ -37,7 +37,7 @@
 - Basic Set Methods
 - Set Operations – Union, Intersection, Difference, Subset, Superset, and More
 
-#PythonSets #SetMethods #SetOperations #LearnPython #DecodeAI #PythonInHindi #PythonProgramming #PythonDataTypes #PythonTutorial #pythonforbeginners
+#PythonSets #SetMethods #SetOperations #LearnPython #DecodeAiML #PythonInHindi #PythonProgramming #PythonDataTypes #PythonTutorial #pythonforbeginners
 
 ---
 
@@ -45,7 +45,7 @@
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=dB5ltn9kWGw)
 
-**Notes Link** : [Dictionary in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.08%20Tuples%2C%20Sets%20and%20Dictionaries%20in%20Python)
+**Notes Link** : [Dictionary in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.08%20Tuples%2C%20Sets%20and%20Dictionaries%20in%20Python)
 
 
 **Video Description**:
@@ -60,19 +60,19 @@
 - checking membership in a dictionary
 - Dictionary comprehension
 
-#PythonDictionary #DictMethods #DictionaryComprehension #LearnPython #PythonInHindi #DecodeAI #PythonProgramming #PythonDataTypes #PythonForBeginners #PythonTutorial
+#PythonDictionary #DictMethods #DictionaryComprehension #LearnPython #PythonInHindi #DecodeAiML #PythonProgramming #PythonDataTypes #PythonForBeginners #PythonTutorial
 
 ---
 
-**Decode AI Youtube Channel** : [@decodeAiBySanjeev](https://www.youtube.com/@decodeAiBySanjeev)
+**Decode AiML Youtube Channel** : [@decodeAiBySanjeev](https://www.youtube.com/@decodeAiBySanjeev)
 - We are committed to uploading **one topic every day** exclusively on our YouTube channel.
 - All associated **course content** (Jupyter Notebooks, handwritten notes, etc.) will be available here on GitHub.
 - **Lecture Language**: Hindi + English (Code-mixed for better understanding)
 
 ---
-👨‍💻 About Decode AI:
+👨‍💻 About Decode AiML:
 
-We're not your average tutorial channel. Decode AI is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
+We're not your average tutorial channel. Decode AiML is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
 
 🎓 Our mission is simple:
 
