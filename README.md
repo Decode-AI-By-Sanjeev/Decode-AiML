@@ -12,8 +12,8 @@ This repository is organized into modular sections to help you **learn progressi
 
 | 📦 Section | 📘 Title                                             | 🧭 Status         |
 |------------|------------------------------------------------------|-------------------|
-| 00         | Getting Started                                       | ✅ Complete       |
-| 01         | Decode Python for ML A2Z                              | ⏳ In Progress    |
+| 00         | [Getting Started](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%200%20-%20Getting%20Started/)                                       | ✅ Complete       |
+| 01         | [Decode Python for ML A2Z](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/)                              | ⏳ In Progress    |
 | 02         | Decode Calculus and Optimization A2Z                 | 🔄 In Progress     |
 | 03         | Decode Linear Algebra A2Z                            | 🔄 In Progress     |
 | 04         | Decode Statistics and Probability A2Z               | 🔄 In Progress     |
