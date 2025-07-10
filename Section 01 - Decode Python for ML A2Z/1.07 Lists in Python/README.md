@@ -1,37 +1,56 @@
-**1.7.1 Introduction to Lists in Python | Properties of Lists | Hindi**
-
-**Video Link** : https://youtu.be/EmEfOyz-Ggc?si=LZvGmuZ6U1Ag67m0
-
-**Video Description** :
-
-📌 Topics Covered in this Bonus Video:
-
-0. Introduction to Lists in Python
-1. Homogeneous and Heterogeneous List Examples
-2. Key Features of Lists
-3. How Lists are Stored Internally in Memory
-4. Indexing and Slicing Operations on Lists
-
----
-**1.7.2 Lists in Python | Properties and Methods in Lists | Explained with Examples | Hindi**
-
-**Video Link** : https://youtu.be/H8L4ZGSsghQ?si=3toQ24M26PCxGruB
-
-**Video Description** 
-
-📌 Topics Covered in this Video:
-
-0. Coding Lists in Python using Jupyter Notebook
-1. Indexing and Slicing in Lists
-2. Basic List Methods (append, extend, insert, etc.)
-3. Sorting and Reversing Lists
-4. Nested Lists and Their Properties
-5. List Comprehension Explained with Code
-6. Miscellaneous List Methods Demonstrated
+## 1.7 Lists in Python
 
 ---
 
-👨‍💻 About Decode AI
+**Lecture 1.7.1) Introduction to Lists in Python - Properties of Lists - Hindi**
+
+**Video Link**: [Watch on YouTube](https://youtu.be/EmEfOyz-Ggc?si=LZvGmuZ6U1Ag67m0)
+
+**Notes Link** : [Introduction to Lists](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.07%20Lists%20in%20Python)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+- Introduction to Lists in Python
+- Homogeneous and Heterogeneous List Examples
+- Key Features of Lists
+- How Lists are Stored Internally in Memory
+- Indexing and Slicing Operations on Lists
+
+#PythonLists #ListMethodsPython #ListComprehension #ListIndexing #NestedLists #PythonLists #ListIndexing #ListSlicing #PythonDataStructures #PythonProgramming #MutableLists
+
+---
+
+**Lecture 1.7.2) Lists in Python - Properties and Methods in Lists - Explained with Examples - Hindi**
+
+**Video Link**: [Watch on YouTube](https://youtu.be/H8L4ZGSsghQ?si=3toQ24M26PCxGruB)
+
+**Notes Link** : [Properties and Methods in Lists](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.06%20Strings%20in%20Python)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+- Coding Lists in Python using Jupyter Notebook
+- Indexing and Slicing in Lists
+- Basic List Methods (append, extend, insert, etc.)
+- Sorting and Reversing Lists
+- Nested Lists and Their Properties
+- List Comprehension Explained with Code
+- Miscellaneous List Methods Demonstrated
+
+#PythonLists #ListMethodsPython #ListComprehension #ListIndexing #NestedLists #PythonLists #ListIndexing #ListSlicing #PythonDataStructures #PythonProgramming #MutableLists
+
+---
+
+**Decode AI Youtube Channel** : [@decodeAiBySanjeev](https://www.youtube.com/@decodeAiBySanjeev)
+- We are committed to uploading **one topic every day** exclusively on our YouTube channel.
+- All associated **course content** (Jupyter Notebooks, handwritten notes, etc.) will be available here on GitHub.
+- **Lecture Language**: Hindi + English (Code-mixed for better understanding)
+
+---
+👨‍💻 About Decode AI:
 
 We're not your average tutorial channel. Decode AI is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
 
@@ -39,6 +58,6 @@ We're not your average tutorial channel. Decode AI is built by IIT alumni with h
 
 Help you crack roles like Applied Scientist, Data Scientist, and ML Engineer at MAANG and other top tech companies — with real-world guidance that bridges the gap between YouTube tutorials and actual interview expectations.
 
-#PythonLists #ListMethodsPython #ListComprehension #LearnPython #PythonTutorial #PythonInHindi #DecodeAI #PythonProgramming #PythonForBeginners #ListIndexing #NestedLists #PythonLists #ListIndexing #ListSlicing #PythonDataStructures #PythonTutorial #LearnPython #DecodeAI #PythonHindi #PythonProgramming #MutableLists
+
 
 
