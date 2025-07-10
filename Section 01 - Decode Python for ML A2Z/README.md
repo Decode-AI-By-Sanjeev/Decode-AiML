@@ -1,24 +1,10 @@
 ## Section 01 - Decode Python for ML A2Z
 
-Welcome to the series - **Decode Python for ML A2Z**
-
-**Table of Content**
-1. Anaconda Installation + Virtual Environment Setup
-2. Introduction to Jupyter Notebook
-3. Introduction to Python and Data Types
-4. The Python Execution model
-5. Control flow in Python
-6. Strings in Python
-7. Lists in Python
-
-====================================
-## Section 01 - Decode Python for ML A2Z
-
 Welcome to the series - **Decode Python for ML A2Z**. We're laying the foundation for a focused, streamlined, and highly relevant course—designed to help you crack top AI roles at MAANG and leading startups. And the best part? It's absolutely FREE!
 
 ## 📚 Table of Content
 
-Github Code Repository Link: [Decode-AI Repository](https://github.com/Decode-AI-By-Sanjeev/Decode-AI)
+Github Code Repository Link: [Decode-AI Repository](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z)
 
 This repository is organized into modular sections to help you **learn progressively**:
 
@@ -30,7 +16,10 @@ This repository is organized into modular sections to help you **learn progressi
 | 04         | [The Python Execution Model](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.04%20%5BBonus%20Section%5D%20The%20Python%20Execution%20Model)                                    | ✅ Complete       |
 | 05         |  [Control Flow in Python](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.05%20Control%20Flow%20in%20Python)                             |  ✅ Complete      |
 | 06         | [Strings in Python](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.06%20Strings%20in%20Python)              |  ✅ Complete       |
-
+| 07         | [Lists in Python](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.07%20Lists%20in%20Python)                                    | ✅ Complete       |
+| 08         |  [ Tuples, Sets and Dictionaries in Python](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.08%20Tuples%2C%20Sets%20and%20Dictionaries%20in%20Python)                             |  ✅ Complete      |
+| 09         | [Functions in Python](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)              |  ✅ Complete       |
+| 10         | [OOPs in Python](https://decode-ai-by-sanjeev.github.io/Decode-AI/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)                                    | ✅ Complete       |
 
 ---
 
