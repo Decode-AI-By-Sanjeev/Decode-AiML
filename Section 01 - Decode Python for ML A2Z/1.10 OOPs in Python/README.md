@@ -79,7 +79,7 @@
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=_byFExAnVUM)
 
-**Notes Link** : [Class and Object Syntax](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Class and Object Syntax](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 
 **Video Description**:
@@ -100,7 +100,7 @@
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=tu6A3lvPgtI)
 
-**Notes Link** : [Instance and Class Attributes](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Instance and Class Attributes](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 
 **Video Description**:
@@ -123,7 +123,7 @@
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=M7uFDIy0jDQ)
 
-**Notes Link** : [Instance and Class Methods](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Instance and Class Methods](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 
 **Video Description**:
@@ -151,7 +151,7 @@
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=NGzOuIUXWpE)
 
-**Notes Link** : [Access Modifiers in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Access Modifiers in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 
 **Video Description**:
@@ -176,7 +176,7 @@
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=5Q0D8IHKnQU)
 
-**Notes Link** : [Getters and Setters in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Getters and Setters in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 
 **Video Description**:
@@ -201,7 +201,7 @@
 
 **Video Link**: [Watch on YouTube]https://www.youtube.com/watch?v=AXkmwlg2j7o)
 
-**Notes Link** : [Decorators in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Decorators in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 
 **Video Description**:
@@ -222,7 +222,7 @@
 
 **Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=nD1e-MVo-mk)
 
-**Notes Link** : [Dunder Methods in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Dunder Methods in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 
 **Video Description**:
@@ -242,136 +242,186 @@
 
 ---
 
-**Lecture 1.10.11) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+**Lecture 1.10.11) Static Variables and Static Methods in Python - Static Vs Class Vs Instance Methods - Hindi**
 
-**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=puuSVgJwm28)
 
-**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Static Variables and Methods in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 
 **Video Description**:
 
 📘 Topics Covered:
-- Hands-On Coding of Iterators and Generators in Python
+- What Are Static Variables and Static Methods in Python?
+- Implementing Static Variables Using Class Attributes
+- Class Attributes Explained with Practical Examples
+- Defining Static Methods in Python Using @staticmethod
+- Static Methods Explained With Use Cases
+- Static Methods as Utility and Factory Functions
+- Implementing a Singleton Class Using Static Methods
+- Can Static Methods Access Class and Instance Attributes?
+- Difference Between Static, Class, and Instance Methods
 
 
-#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+#StaticMethodsPython #ClassAttributes #PythonOOP #DecodeAiML #LearnPython #PythonInHindi #PythonTutorial #InstanceVsStaticMethod #SingletonClassPython #FactoryMethod #interviewpreparation  #gate #gateda #gatedatascience
 
 ---
 
-**Lecture 1.10.12) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+**Lecture 1.10.12) __new__() vs __init__() in Python - Private Constructor & Singleton Class Explained - Hindi**
 
-**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=5dSAHxk5xDg)
 
-**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [__new__() Vs __init__() in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 
 **Video Description**:
 
 📘 Topics Covered:
-- Hands-On Coding of Iterators and Generators in Python
+- What is the __new__() Method and When Is It Called?
+- What is the __init__() Method and Its Role in Object Initialization?
+- What Happens During Instance Creation in Python?
+- What Is the object Base Class in Python?
+- super() explained in python
+- What Are Private Constructors and When to Use Them?
+- What Is a Singleton Class and Why Use It?
+- Writing Your First Singleton Class in Python
 
-
-#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+#NewVsInit #SingletonClassPython #PrivateConstructor #PythonOOP #PythonInHindi #DecodeAiML #PythonMagicMethods #PythonTutorial #LearnPython #ObjectCreationPython
 
 ---
 
-**Lecture 1.10.13) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+**Lecture 1.10.13) Copy Constructor in Python - __copy__() vs copy.copy() vs copy.deepcopy() Explained - Hindi**
 
-**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=ccuB6ntru0A)
 
-**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
-
-
-**Video Description**:
-
-📘 Topics Covered:
-- Hands-On Coding of Iterators and Generators in Python
-
-
-#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
----
-
-**Lecture 1.10.14) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
-
-**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
-
-**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Copy Constructor in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 
 **Video Description**:
+This video from the Decode AiML Python OOP series explains how copy constructors work in Python, the difference between shallow and deep copies, and how to use built-in methods like __copy__(), copy.copy(), and copy.deepcopy() effectively.
 
 📘 Topics Covered:
-- Hands-On Coding of Iterators and Generators in Python
+- What are copy contructors?
+- Difference Between a Constructor and a Copy Constructor
+- Shallow Copy vs Deep Copy – Explained with Examples
+- Implementing the __copy__() Magic Method
+- copy module in python for copy constructors
+- copy.copy() method and copy.deepcopy() method explained with    examples
 
-
-#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+#DecodeAiML #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
 
 ---
 
-**Lecture 1.10.15) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+**Lecture 1.10.14) OOPs in Python Explained with Pizza Analogy - Classes, Objects, Attributes & Methods - Hindi**
 
-**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=Bex4vxsFaf0)
 
-**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [COOPs Explained with Pizza Analogy](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 
 **Video Description**:
 
 📘 Topics Covered:
-- Hands-On Coding of Iterators and Generators in Python
+- What Are Classes and Objects? – Explained with a Pizza Analogy
+- Class vs Instance – Key Differences
+- Understanding Attributes and Methods Using a Pizza Example
+- Using __init__() and __str__() for the Pizza Class
+- Creating a List of Pizza Instances in Python
+- Complete Hands-On OOP Concepts with Real-World Pizza Analogy
 
 
-#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+#PythonOOP #PizzaAnalogy #ClassesAndObjects #PythonInHindi #DecodeAiML #LearnPython #PythonTutorial #OOPConcepts #DunderMethods #RealWorldOOP
 
 ---
 
-**Lecture 1.10.16) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+**Lecture 1.10.15) Pillars of OOPs in Python - Inheritance, Encapsulation, Polymorphism and Abstraction - Hindi**
 
-**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=V1GZ_da0UZk)
 
-**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Pillars of OOPs in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 
 **Video Description**:
+This video from the Decode AiML Python OOPs series gives a complete and beginner-friendly overview of the four foundational pillars of object-oriented programming, explained through real-world analogies and Python examples.
 
 📘 Topics Covered:
-- Hands-On Coding of Iterators and Generators in Python
+- Pillars of OOPs explained in one shot.
+- Inheritance in Python – With Real-World Use Cases
+- Encapsulation in Python – Explained Through Practical Examples 
+- Polymorphism in Python – Code Reusability & Flexibility in Action
+- Abstraction in Python – Hiding Internal Logic with Simple Interfaces
+- Introduction to Abstract Classes in Python and the ABC Module
 
 
-#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+#OOPPillars #InheritancePython #EncapsulationPython #PolymorphismPython #AbstractionPython #PythonInHindi #DecodeAiML #PythonOOP #AbstractClassPython #LearnPython
 
 ---
 
-**Lecture 1.10.17) Iterator vs Generator in Python - Coding with Real-World Examples - Hindi**
+**Lecture 1.10.16) Inheritance in Python - Parent vs Child Class, Method Overriding & super() - Hindi**
 
-**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=IDXimezwdMk)
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=cTHsvDIo-kc)
 
-**Notes Link** : [Coding Iterator and Generator in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.09%20Functions%20in%20Python)
+**Notes Link** : [Inheritance in Python Part-1](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 
 **Video Description**:
 
 📘 Topics Covered:
-- Hands-On Coding of Iterators and Generators in Python
+- What is Inheritance in Python?
+- Understanding Parent (Base) and Child (Derived) Classes
+- Using the isinstance() method
+- Method Overriding in Inheritance
+- The super() function for parent class initialization
+- Fun Facts: How object and type work in Python classes
 
 
-#pythoniterators  #pythongenerators  #lazyevaluation  #YieldKeyword #IterableVsIterator #DecodeAI #pythoninhindi  #pythonprogramming  #pythontutorial  #learnpython
+#PythonInheritance #MethodOverriding #SuperInPython #PythonClasses #PythonOOP #PythonInHindi #DecodeAiML #LearnPython #ParentChildClass #PythonOOPConcepts
 
 ---
 
-**Lecture 1.10.18) Polymorphism in Python - Hindi**
+**Lecture 1.10.17) Types of Inheritance in Python - Single, Multiple, MRO & Member Access Explained - Hindi**
 
-**Video Link**: [Watch on YouTube]()
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=Z-qJSNHvhS8)
 
-**Notes Link** : [Polymorphism in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
+**Notes Link** : [Inheritance in Python Part-2](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
+
 
 **Video Description**:
 
 📘 Topics Covered:
-- TOC
+- Accessibility of Members in Inheritance
+- Types of Inheritance in OOPs
+- Single Inheritance Explained with Examples
+- Multilevel Inheritance Explained with Examples
+- Multiple Inheritance Explained with Examples
+- Hierarchical Inheritance Explained with Examples
+- Hybrid Inheritance Explained with Examples
+- Understanding MRO (Method Resolution Order)
+- Benefits and Limitations of Using Inheritance in Python
 
-#hashtags
+
+#TypesOfInheritance #PythonInheritance #OOPInPython #PythonMRO #DecodeAiML #PythonInHindi #LearnPython #MultipleInheritancePython #InheritanceHierarchy #PythonClasses
+
+
+---
+
+**Lecture 1.10.18) Encapsulation in Python Explained with Real Examples - Encapsulation vs Abstraction - Hindi**
+
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=8pi6IuvQ2ow)
+
+**Notes Link** : [Encapsulation in Python Part-2](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
+
+**Video Description**:
+In this video from the Decode AiML Python OOP Series, you’ll learn what encapsulation means in Python, how it's different from abstraction, and how to use access modifiers like private, protected, and public members in real-world class design.
+
+📘 Topics Covered:
+- What is Encapsulation in Python?
+- Encapsulation vs Abstraction – Key Differences
+- Real-World Example of Encapsulation in OOP
+- Access Modifiers in Python – Private, Protected, and Public
+- Accessing and Modifying Private Data Members in Python
+
+#EncapsulationInPython #AccessModifiers #AbstractionVsEncapsulation #PythonOOP #PythonInHindi #DecodeAiML #LearnPython #PythonTutorial #PrivateMembersPython #OOPConcepts
 
 ---
 
@@ -422,15 +472,15 @@
 
 ---
 
-**Decode AI Youtube Channel** : [@decodeAiBySanjeev](https://www.youtube.com/@decodeAiBySanjeev)
+**Decode AiML Youtube Channel** : [@decodeAiBySanjeev](https://www.youtube.com/@decodeAiML)
 - We are committed to uploading **one topic every day** exclusively on our YouTube channel.
 - All associated **course content** (Jupyter Notebooks, handwritten notes, etc.) will be available here on GitHub.
 - **Lecture Language**: Hindi + English (Code-mixed for better understanding)
 
 ---
-👨‍💻 About Decode AI:
+👨‍💻 About Decode AiML:
 
-We're not your average tutorial channel. Decode AI is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
+We're not your average tutorial channel. Decode AiML is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
 
 🎓 Our mission is simple:
 
