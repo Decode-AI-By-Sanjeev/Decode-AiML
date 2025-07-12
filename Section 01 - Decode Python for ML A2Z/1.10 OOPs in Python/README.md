@@ -199,7 +199,7 @@
 
 **Lecture 1.10.9)  Decorators in Python - Writing our custom Decorator - Explained with Examples - Hindi**
 
-**Video Link**: [Watch on YouTube]https://www.youtube.com/watch?v=AXkmwlg2j7o)
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=AXkmwlg2j7o)
 
 **Notes Link** : [Decorators in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
