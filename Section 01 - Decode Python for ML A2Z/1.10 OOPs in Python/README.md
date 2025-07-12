@@ -425,50 +425,67 @@ In this video from the Decode AiML Python OOP Series, you’ll learn what encaps
 
 ---
 
-**Lecture 1.10.19) Polymorphism in Python - Hindi**
+**Lecture 1.10.19) Polymorphism in Python - Method Overloading, Operator Overloading, Duck Typing - Hindi**
 
-**Video Link**: [Watch on YouTube]()
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=SSM2RiI99eI)
 
 **Notes Link** : [Polymorphism in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 **Video Description**:
+In this video from the Decode AI Python OOP Series, you’ll learn all about Polymorphism in Python — a core OOP concept that allows for flexibility and code reusability. Through real-world examples, we explore method overloading, operator overloading, method overriding, and duck typing.
 
 📘 Topics Covered:
-- TOC
+- What is Polymorphism in Python?
+- Method Overloading Explained with Real-World Examples
+- Operator Overloading in Python with Custom Classes
+- Method Overriding Using Inheritance
+- Duck Typing – If it walks like a duck, it’s a duck!
 
-#hashtags
+#PolymorphismInPython #OperatorOverloading #MethodOverriding #DuckTyping #PythonOOP #PythonInHindi #DecodeAiML #LearnPython #PythonTutorial #OOPConcepts #decodeai
 
 ---
 
-**Lecture 1.10.20) Abstract Class and Methods in Python - Hindi**
+**Lecture 1.10.20) Abstract Class & Methods in Python - Full vs Partial Abstraction Explained - Hindi**
 
-**Video Link**: [Watch on YouTube]()
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=gkGgr9mOvdk)
 
 **Notes Link** : [Abstract Class & Methods in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 
 **Video Description**:
+In this video from the Decode AiML Python OOP Series, we focus on the pillar of Abstraction and how it’s implemented using abstract classes and abstract methods in Python. Learn how to use the ABC module and @abstractmethod decorator to enforce abstraction in real-world applications.
 
 📘 Topics Covered:
-- TOC
+- What is Abstraction in Python?
+- Abstract Classes and Abstract Methods Explained
+- Using the ABC Module and @abstractmethod Decorator
+- Abstract Class vs Concrete Class
+- Abstract Method vs Concrete Method
+- Full Abstraction vs Partial Abstraction
+- Advantages of Using Abstract Classes in Python
 
-#hashtags
+#AbstractionInPython #AbstractClassPython #AbstractMethodPython #PythonOOP #PillarsOfOOP #PythonInHindi #DecodeAiML #LearnPython #PythonTutorial #ABCModule
 
 ---
 
-**Lecture 1.10.21) Abstraction in Python - Hindi**
+**Lecture 1.10.21) Abstraction in Python Explained with Examples - Abstraction vs Encapsulation - Hindi**
 
-**Video Link**: [Watch on YouTube]()
+**Video Link**: [Watch on YouTube](https://www.youtube.com/watch?v=U291icpS-Bc)
 
 **Notes Link** : [Abstraction in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AI/tree/main/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/1.10%20OOPs%20in%20Python)
 
 
 **Video Description**:
+In this video from the Decode AiML Python OOP Series, we dive deeper into the concept of Abstraction in Python, using relatable examples like a payment system to demonstrate how abstraction works in real-world applications. We also clarify the difference between abstraction and encapsulation and when to use each.
 
 📘 Topics Covered:
-- TOC
+- Introduction to Abstraction in Python
+- Abstraction Explained with Payment System Example
+- Abstract class in Python using ABC and @abstractmethod
+- Abstraction vs Encapsulation – Key Differences Explained
+- Key Points and Best Practices for Using Abstraction in Python
 
-#hashtags
+#AbstractionInPython #EncapsulationVsAbstraction #AbstractClassPython #PythonOOP #PythonInHindi #DecodeAiML #LearnPython #OOPConcepts #PythonTutorial
 
 ---
 
