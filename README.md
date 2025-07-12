@@ -1,17 +1,21 @@
-# Decoding AI Interviews
+<h2 align="center">
+  Decoding AI Interviews - Your ultimate guide to landing top AI roles.
+</h2>
 
-**Decoding AI Interviews - Your ultimate guide to landing top AI roles.**  
+---
 
 We're on a mission to build the world's most structured and industry-relevant AI course — crafted to help you crack interviews at MAANG and top startups. And the best part? It's 100% FREE!
 
 ## 📚 Course Structure
 
+Github Code Repository Link: [Decode-AiML Repository](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML)
+
 This repository is organized into modular sections to help you **learn progressively**:
 
 | 📦 Section | 📘 Title                                             | 🧭 Status         |
 |------------|------------------------------------------------------|-------------------|
-| 00         | Getting Started                                       | ✅ Complete       |
-| 01         | Decode Python for ML A2Z                              | ⏳ In Progress    |
+| 00         | [Getting Started](https://decodeaiml.com/Section%200%20-%20Getting%20Started/)                                       | ✅ Complete       |
+| 01         | [Decode Python for ML A2Z](https://decodeaiml.com/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/)                              | ⏳ In Progress    |
 | 02         | Decode Calculus and Optimization A2Z                 | 🔄 In Progress     |
 | 03         | Decode Linear Algebra A2Z                            | 🔄 In Progress     |
 | 04         | Decode Statistics and Probability A2Z               | 🔄 In Progress     |
@@ -26,15 +30,15 @@ This repository is organized into modular sections to help you **learn progressi
 
 ---
 
-**Decode AI Youtube Channel** : https://www.youtube.com/@decodeAiBySanjeev
+**Decode AiML Youtube Channel** : [@decodeAiML](https://www.youtube.com/@decodeAiML)
 - We are committed to uploading **one topic every day** exclusively on our YouTube channel.
 - All associated **course content** (Jupyter Notebooks, handwritten notes, etc.) will be available here on GitHub.
 - **Lecture Language**: Hindi + English (Code-mixed for better understanding)
 
 ---
-👨‍💻 About Decode AI
+👨‍💻 About Decode AiML
 
-We're not your average tutorial channel. Decode AI is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
+We're not your average tutorial channel. Decode AiML is built by IIT alumni with hands-on experience at companies like Google, NVIDIA, Samsung Research, Oracle, and Flipkart.
 
 🎓 Our mission is simple:
 
