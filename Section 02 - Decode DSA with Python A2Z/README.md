@@ -1,8 +1,8 @@
 We're on a mission to build the world's most structured and industry-relevant AI course — crafted to help you crack interviews at MAANG and top startups. And the best part? It's 100% FREE!
 
-## Section 0 - Getting Started
+## Section 0 - Decode DSA with Python A2Z
 
-Welcome to the series - **Getting Started**. We're laying the foundation for a focused, streamlined, and highly relevant course—designed to help you crack top AI roles at MAANG and leading startups. And the best part? It's absolutely FREE!
+Welcome to the series - **Decode DSA with Python A2Z**. We're laying the foundation for a focused, streamlined, and highly relevant course—designed to help you crack top AI roles at MAANG and leading startups. And the best part? It's absolutely FREE!
 
 ## 📚 Table of Content
 
@@ -12,9 +12,9 @@ This repository is organized into modular sections to help you **learn progressi
 
 | 📦 Section | 📘 Title                                             | 🧭 Status         |
 |------------|------------------------------------------------------|-------------------|
-| 01         | [What is Decode AiML ? What problems are we solving ?](https://decodeaiml.com/Section%200%20-%20Getting%20Started/0.1%20Channel%20Introduction)                                    | ✅ Complete       |
-| 02         |  [Decoding AI Interview Patterns with examples.](https://decodeaiml.com/Section%200%20-%20Getting%20Started/0.2%20AI%20Interview%20Patterns/)                             |  ✅ Complete      |
-| 03         | [Course Structure. The Ultimate AI roadmap to crack top AI roles at MAANG. ](https://decodeaiml.com/Section%200%20-%20Getting%20Started/0.3%20Course%20Introduction)              |  ✅ Complete       |
+| 01         | [Getting Started ](https://decodeaiml.com/Section%2002%20-%20Decode%20DSA%20with%20Python%20A2Z/2.01%20Getting%20Started)                                    | ✅ Complete       |
+| 02         |  [Introduction to DSA ](https://decodeaiml.com/Section%2002%20-%20Decode%20DSA%20with%20Python%20A2Z/2.02%20Introduction%20to%20DSA)                             |  ✅ Complete      |
+| 03         | [Introduction to Time and Space Complexity ](https://decodeaiml.com/Section%2002%20-%20Decode%20DSA%20with%20Python%20A2Z/2.03%20Introduction%20to%20Time%20and%20Space%20Complexity)              |  ✅ Complete       |
 
 
 ---
