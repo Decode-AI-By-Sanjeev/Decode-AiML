@@ -16,7 +16,7 @@ This repository is organized into modular sections to help you **learn progressi
 |------------|------------------------------------------------------|-------------------|
 | 00         | [Getting Started](https://decodeaiml.com/Section%200%20-%20Getting%20Started/)                                       | ✅ Complete       |
 | 01         | [Decode Python for ML A2Z](https://decodeaiml.com/Section%2001%20-%20Decode%20Python%20for%20ML%20A2Z/)                              | ⏳ In Progress    |
-| 02         | Decode DSA in Python A2Z                             | ⏳ In Progress     |
+| 02         | [Decode DSA in Python A2Z](https://decodeaiml.com/Section%2002%20-%20Decode%20DSA%20with%20Python%20A2Z/)                             | ⏳ In Progress     |
 | 03         | Decode Calculus and Optimization A2Z                 | 🔄 In Progress     |
 | 04         | Decode Linear Algebra A2Z                            | 🔄 In Progress     |
 | 05         | Decode Statistics and Probability A2Z               | 🔄 In Progress     |
